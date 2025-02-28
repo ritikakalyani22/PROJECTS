@@ -1,0 +1,431 @@
+,Brands,Models,Prices,Storage(GB),RAM,RAM Type,Size,Processor,Operating System,Warranty,Ratings
+0,Lenovo,Lenovo Legion 5 ,133999.0,512,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.2
+1,Avita,Avita SATUS ULTIMUS S111 ,21490.0,128,4,DDR4,14.1,Intel Celeron Dual Core Processor,64 bit Windows 11 ,1.0,4.1
+2,HP,HP ,36990.0,256,8,DDR4,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.3
+3,Lenovo,Lenovo IdeaPad 3 ,39490.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,2.0,4.3
+4,Lenovo,Lenovo IdeaPad 3 ,47241.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,2.0,4.2
+5,ASUS,ASUS ,29990.0,256,8,DDR4,15.6,AMD Ryzen 3 Dual Core Processor,64 bit Windows 10 ,1.0,4.3
+6,Lenovo,Lenovo IdeaPad 3 ,36990.0,256,8,DDR4,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,2.0,4.3
+7,Lenovo,Lenovo IdeaPad 3 ,33490.0,256,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),Windows 11 ,2.0,4.3
+8,HP,HP ,40990.0,512,8,DDR4,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.3
+9,HP,HP ,33990.0,256,8,DDR4,15.6,AMD Ryzen 3 Dual Core Processor,64 bit Windows 11 ,1.0,4.3
+10,HP,HP ,40990.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.2
+11,Lenovo,Lenovo IdeaPad ,37990.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,2.0,4.3
+12,ASUS,ASUS VivoBook 15 (2022) ,33990.0,512,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 11 ,1.0,4.5
+13,HP,HP Pavilion ,54990.0,512,8,DDR4,15.6,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.6
+14,DELL,DELL ,40990.0,1000,8,DDR4,15.6,AMD Ryzen 3 Dual Core Processor,64 bit Windows 11 ,1.0,4.6
+15,Lenovo,Lenovo IdeaPad ,45990.0,512,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.1
+16,Lenovo,Lenovo IdeaPad 3 ,27999.0,256,4,DDR4,14.0,Intel Celeron Dual Core Processor (4th Gen),64 bit Windows 10 ,1.0,4.3
+17,ASUS,ASUS VivoBook Ultra 14 (2022) ,53990.0,512,16,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.3
+18,Lenovo,Lenovo IdeaPad 3 ,46049.0,512,8,DDR4,15.6,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 ,2.0,3.8
+19,MSI,MSI ,44990.0,512,8,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.3
+20,HP,HP Notebook PC ,35990.0,1000,8,DDR4,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 10 ,1.0,4.3
+21,ASUS,ASUS VivoBook 15 (2022) ,34990.0,512,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 11 ,1.0,4.5
+22,ASUS,ASUS VivoBook 15 (2022) ,48990.0,1000,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.2
+23,ASUS,ASUS ROG Flow Z13 (2022) ,321990.0,1000,16,LPDDR5,13.4,Intel Core i9 Processor (12th Gen),64 bit Windows 11 ,1.0,4.3
+24,ASUS,ASUS TUF Gaming F15 ,54990.0,512,8,DDR4,15.6,Intel Core i5 Processor (10th Gen),64 bit Windows 11 ,1.0,4.3
+25,ASUS,ASUS ,33990.0,256,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.5
+26,ASUS,ASUS VivoBook K15 OLED ,59990.0,512,16,DDR4,15.6,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 ,1.0,4.3
+27,Avita,Avita SATUS ULTIMUS S111 ,21490.0,128,4,DDR4,14.1,Intel Celeron Dual Core Processor,64 bit Windows 11 ,1.0,4.3
+28,DELL,DELL Inspiron Athlon ,33090.0,256,8,DDR4,15.6,AMD Athlon Dual Core Processor,64 bit Windows 11 ,1.0,4.1
+29,HP,HP ,48490.0,512,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 ,1.0,4.2
+30,Lenovo,Lenovo ,34490.0,512,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 11 ,2.0,4.4
+31,Lenovo,Lenovo IdeaPad 3 ,39490.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,2.0,4.3
+32,ASUS,ASUS TUF Gaming F15 ,56990.0,512,8,DDR4,15.6,Intel Core i5 Processor (10th Gen),64 bit Windows 11 ,1.0,4.3
+33,acer,acer Intel EVO Swift 3 ,60990.0,512,8,LPDDR4X,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.4
+34,ASUS,ASUS TUF Gaming A17 ,72990.0,512,16,DDR4,17.3,AMD Ryzen 7 Octa Core Processor,64 bit Windows 10 ,1.0,4.5
+35,Lenovo,Lenovo IdeaPad 3 ,33490.0,256,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),Windows 11 ,2.0,4.5
+36,HP,HP ,41990.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.3
+37,HP,HP ,30990.0,256,8,DDR4,14.0,Intel Pentium Quad Core Processor,64 bit Windows 11 ,1.0,4.2
+38,Lenovo,Lenovo Ideapad Slim 5i ,64999.0,512,16,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.2
+39,Lenovo,Lenovo IdeaPad ,37990.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,2.0,4.4
+40,ASUS,ASUS VivoBook 14 (2021) ,25990.0,256,4,DDR4,14.0,Intel Celeron Dual Core Processor,64 bit Windows 11 ,1.0,4.2
+41,ASUS,ASUS VivoBook K15 OLED (2022) ,57990.0,512,16,DDR4,15.6,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 ,1.0,4.5
+42,Lenovo,Lenovo IdeaPad ,29990.0,256,4,DDR4,14.0,Intel Core i3 Processor (10th Gen),64 bit Windows 11 ,2.0,4.3
+43,Lenovo,Lenovo Legion 5 ,133999.0,512,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.2
+44,APPLE,APPLE MacBook Air ,104990.0,256,16,DDR4,13.3,Apple M1 Processor,Mac OS ,1.0,4.7
+45,DELL,DELL ,70990.0,512,8,DDR4,15.6,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 ,1.0,4.7
+46,realme,realme Book (Slim) ,38999.0,256,8,DDR4,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 10 ,1.0,4.4
+47,Lenovo,Lenovo IdeaPad ,45990.0,512,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.6
+48,HP,HP ,52990.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.2
+49,ASUS,ASUS VivoBook 14 (2022) ,47990.0,1000,8,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.2
+50,ASUS,ASUS VivoBook 15 (2022) ,31990.0,512,4,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 11 ,1.0,4.2
+51,Avita,Avita SATUS ULTIMUS S111 ,21490.0,128,4,DDR4,14.1,Intel Celeron Dual Core Processor,64 bit Windows 11 ,1.0,4.7
+52,HP,HP ,52490.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.3
+53,Lenovo,Lenovo IdeaPad 1 ,37990.0,512,8,DDR4,15.6,AMD Ryzen 5 Quad Core Processor,64 bit Windows 11 ,1.0,4.1
+54,ASUS,ASUS ,31990.0,512,4,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 10 ,1.0,4.3
+55,Lenovo,Lenovo IdeaPad 3 ,39490.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,2.0,4.1
+56,ASUS,ASUS VivoBook K15 OLED ,59990.0,512,16,DDR4,15.6,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 ,1.0,4.2
+57,ASUS,ASUS Vivobook S14 OLED (2022) Intel EVO ,70990.0,512,16,DDR4,14.0,Intel Core i5 Processor (12th Gen),64 bit Windows 11 ,1.0,4.3
+58,HP,HP ,36490.0,512,8,DDR4,15.6,AMD Ryzen 3 Quad Core Processor,64 bit Windows 11 ,1.0,4.3
+59,Lenovo,Lenovo IdeaPad 3 ,33490.0,256,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),Windows 11 ,2.0,4.3
+60,HP,HP Pavilion ,52999.0,512,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 ,1.0,4.5
+61,acer,acer Aspire 3 ,34390.0,512,8,DDR4,15.6,AMD Ryzen 3 Dual Core Processor,64 bit Windows 11 ,1.0,4.1
+62,DELL,DELL Inspiron ,37490.0,256,8,DDR4,15.6,AMD Ryzen 3 Dual Core Processor,64 bit Windows 11 ,1.0,4.3
+63,Lenovo,Lenovo IdeaPad ,37990.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,2.0,4.2
+64,HP,HP 15s ,38999.0,1000,8,DDR4,15.6,AMD Ryzen 3 Dual Core Processor,64 bit Windows 10 ,1.0,4.3
+65,MSI,MSI GF63 Thin ,72990.0,512,16,DDR4,15.6,Intel Core i7 Processor (10th Gen),64 bit Windows 10 ,2.0,4.3
+66,ASUS,ASUS VivoBook K15 OLED (2022) ,62990.0,1000,16,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.4
+67,Lenovo,Lenovo Legion 5 ,133999.0,512,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.6
+68,DELL,DELL Vostro ,37690.0,1000,4,DDR4,14.0,Intel Core i3 Processor (10th Gen),64 bit Windows 11 ,1.0,4.2
+69,Lenovo,Lenovo ,29990.0,1000,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 11 ,2.0,4.5
+70,HP,HP ,50999.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,3.7
+71,Lenovo,Lenovo IdeaPad ,45990.0,512,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.2
+72,APPLE,APPLE 2020 Macbook Air ,105990.0,512,8,DDR4,13.3,Apple M1 Processor,Mac OS ,2.0,4.6
+73,MSI,MSI Katana GF66 ,69990.0,512,16,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,2.0,4.3
+74,Lenovo,Lenovo IdeaPad 3 ,33490.0,256,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),Windows 11 ,1.0,4.3
+75,Avita,Avita SATUS ULTIMUS S111 ,21490.0,128,4,DDR4,14.1,Intel Celeron Dual Core Processor,64 bit Windows 11 ,1.0,3.7
+76,HP,HP ,41990.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.2
+77,HP,HP ,47990.0,512,8,DDR4,15.6,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 ,1.0,4.7
+78,acer,acer Aspire 3 ,39690.0,512,8,DDR4,15.6,AMD Ryzen 5 Quad Core Processor,64 bit Windows 11 ,1.0,4.5
+79,acer,acer Aspire Vero(Green PC ) ,58390.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.3
+80,DELL,DELL Inspiron ,54790.0,256,8,DDR4,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.1
+81,ASUS,ASUS VivoBook K15 OLED (2022) ,45000.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,2.0,4.2
+82,MSI,MSI GF63 Thin ,59990.0,512,8,DDR4,15.6,Intel Core i5 Processor (10th Gen),64 bit Windows 10 ,1.0,4.3
+83,Lenovo,Lenovo IdeaPad Gaming ,53990.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,2.0,4.2
+84,Lenovo,Lenovo IdeaPad ,37990.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.3
+85,Lenovo,Lenovo IdeaPad Flex 5 ,58990.0,512,8,DDR4,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,2.0,4.4
+86,MSI,MSI Pulse GL66 ,109990.0,1000,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,2.0,4.5
+87,Lenovo,Lenovo ,34490.0,512,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 11 ,2.0,4.2
+88,Lenovo,Lenovo IdeaPad 3 ,55490.0,512,8,DDR4,15.6,Intel Core i5 Processor (12th Gen),64 bit Windows 11 ,1.0,4.2
+89,DELL,DELL Inspiron ,33090.0,256,8,DDR4,15.6,Intel Pentium Silver Processor,64 bit Windows 11 ,1.0,4.5
+90,APPLE,APPLE MacBook Air ,104990.0,512,8,DDR4,13.3,Apple M1 Processor,Mac OS ,1.0,4.3
+91,Lenovo,Lenovo Legion 5 ,133999.0,512,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.1
+92,HP,HP ,53990.0,512,8,DDR4,15.6,Intel Core i5 Processor (12th Gen),Windows 11 ,1.0,4.7
+93,ASUS,ASUS VivoBook K15 OLED (2022) ,53990.0,1000,8,DDR4,15.6,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 ,1.0,4.2
+94,APPLE,APPLE MacBook Air ,104990.0,256,16,DDR4,13.3,Apple M1 Processor,Mac OS ,1.0,3.9
+95,Lenovo,Lenovo IdeaPad ,57990.0,512,8,DDR4,15.6,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.4
+96,ASUS,ASUS VivoBook 15 (2022) ,31990.0,256,4,DDR4,15.6,Intel Core i3 Processor (11th Gen),Windows 10 ,1.0,4.7
+97,ASUS,ASUS VivoBook 15 (2022) ,43990.0,512,8,DDR4,15.6,Intel Core i5 Processor (10th Gen),64 bit Windows 11 ,1.0,4.3
+98,acer,acer Nitro 5 ,94990.0,1000,16,DDR4,15.6,AMD Ryzen 7 Octa Core Processor,64 bit Windows 10 ,1.0,4.2
+99,HP,HP Pavilion x360 ,48990.0,256,8,DDR4,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.2
+100,ASUS,ASUS ,33490.0,256,8,DDR4,15.6,AMD Ryzen 3 Quad Core Processor,Windows 11 ,1.0,4.7
+101,HP,HP Pavilion Gaming ,65000.0,1000,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.2
+102,ASUS,ASUS VivoBook K15 OLED (2022) ,40990.0,256,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 10 ,1.0,4.3
+103,HP,HP 14s ,49990.0,512,8,DDR4,14.0,Intel Core i5 Processor (10th Gen),64 bit Windows 10 ,1.0,4.2
+104,acer,acer Swift 3 ,49990.0,512,8,LPDDR4X,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.4
+105,ASUS,ASUS (2022) ,22990.0,128,4,DDR4,11.6,Intel Celeron Dual Core Processor,64 bit Windows 11 ,1.0,4.5
+106,DELL,DELL Vostro ,40790.0,1000,4,DDR4,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 10 ,1.0,3.8
+107,ASUS,ASUS TUF Gaming F17 (2022) ,89990.0,512,16,DDR5,17.3,Intel Core i5 Processor (12th Gen),64 bit Windows 11 ,1.0,4.3
+108,Infinix,Infinix X1 Slim Series ,39990.0,512,8,LPDDR4X,14.0,Intel Core i5 Processor (10th Gen),64 bit Windows 11 ,1.0,4.5
+109,Lenovo,Lenovo IdeaPad Slim 3i (2021) ,37990.0,256,8,DDR4,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 10 ,1.0,4.2
+110,DELL,DELL Vostro ,57990.0,512,8,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.5
+111,ASUS,ASUS ,39990.0,512,8,DDR4,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.7
+112,HP,HP Pavilion ,56490.0,512,8,DDR4,15.6,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 ,1.0,4.2
+113,ASUS,ASUS ROG Flow X13 (2021) ,99990.0,1000,16,LPDDR4X,13.4,AMD Ryzen 9 Octa Core Processor,64 bit Windows 10 ,1.0,4.4
+114,HP,HP Pavilion Gaming ,70990.0,1000,16,DDR4,15.6,AMD Ryzen 7 Octa Core Processor,64 bit Windows 10 ,1.0,4.5
+115,acer,acer ,29890.0,256,8,DDR4,14.0,AMD Ryzen 3 Dual Core Processor,64 bit Windows 11 ,1.0,4.5
+116,ASUS,ASUS VivoBook 14 ,28990.0,256,4,DDR4,14.0,Intel Pentium Silver Processor,64 bit Windows 11 ,2.0,4.2
+117,ASUS,ASUS VivoBook 15 ,25990.0,256,4,DDR4,15.6,AMD Ryzen 3 Dual Core Processor,64 bit Windows 10 ,1.0,4.3
+118,Infinix,Infinix INBook X1 Neo Series ,24990.0,256,8,LPDDR4X,14.0,Intel Celeron Quad Core Processor,64 bit Windows 11 ,2.0,4.5
+119,Avita,Avita PURA APU ,26490.0,256,8,DDR4,14.0,APU Dual Core A6 Processor,64 bit Windows 10 ,1.0,3.7
+120,Infinix,Infinix INBook X1 Neo Series ,24990.0,256,8,LPDDR4X,14.0,Intel Celeron Quad Core Processor,64 bit Windows 11 ,1.0,4.2
+121,Avita,Avita PURA APU ,26490.0,256,8,DDR4,14.0,APU Dual Core A6 Processor,64 bit Windows 10 ,1.0,4.2
+122,ASUS,ASUS VivoBook 15 ,25990.0,256,4,DDR4,15.6,AMD Ryzen 3 Dual Core Processor,64 bit Windows 10 ,1.0,3.7
+123,Avita,Avita SATUS ULTIMUS S111 ,21490.0,128,4,DDR4,14.1,Intel Celeron Dual Core Processor,64 bit Windows 11 ,1.0,4.2
+124,HP,HP Pavilion ,56990.0,512,8,DDR4,15.6,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 ,1.0,4.5
+125,DELL,DELL Vostro ,49190.0,512,8,DDR4,14.0,AMD Ryzen 5 Quad Core Processor,64 bit Windows 10 ,1.0,3.7
+126,ASUS,ASUS Vivobook 15 ,54990.0,1000,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.3
+127,acer,acer Aspire Vero(Green PC ) ,58390.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.1
+128,ASUS,ASUS VivoBook Flip 14 ,49990.0,512,8,LPDDR4X,14.0,Intel Core i3 Processor (11th Gen),Windows 11 ,2.0,4.7
+129,ASUS,ASUS VivoBook Flip 14 ,62990.0,512,8,LPDDR4X,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.7
+130,Lenovo,Lenovo Thinkpad ,56990.0,512,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit DOS ,1.0,4.4
+131,Lenovo,Lenovo IdeaPad 3 ,33490.0,256,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),Windows 11 ,1.0,4.8
+132,HP,HP Pavilion ,60990.0,512,16,DDR4,15.6,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 ,2.0,4.4
+133,ASUS,ASUS VivoBook K15 OLED (2021) ,61990.0,1000,16,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.3
+134,Lenovo,Lenovo IdeaPad Gaming ,53990.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,3.7
+135,Lenovo,Lenovo ,34490.0,512,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 11 ,1.0,4.3
+136,acer,acer Extensa ,31990.0,256,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.2
+137,MSI,MSI Alpha 15 ,91990.0,1000,16,DDR4,15.6,AMD Ryzen 7 Octa Core Processor,64 bit Windows 10 ,1.0,4.3
+138,ASUS,ASUS TUF Gaming A17 ,71990.0,512,8,DDR4,17.3,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 ,1.0,4.5
+139,ASUS,ASUS ,25990.0,1000,4,DDR4,15.6,Intel Pentium Quad Core Processor,64 bit Windows 10 ,1.0,4.4
+140,acer,acer Predator Helios 300 ,97990.0,1000,16,DDR4,15.6,Intel Octa Core i7 Processor (10th Gen),64 bit Windows 10 ,1.0,3.7
+141,ASUS,ASUS ,65990.0,512,8,DDR4,15.6,Intel Core i5 Processor (10th Gen),Windows 10 ,2.0,4.5
+142,APPLE,APPLE 2020 Macbook Air ,86990.0,256,8,DDR4,13.3,Apple M1 Processor,Mac OS ,1.0,4.7
+143,Lenovo,Lenovo IdeaPad ,45990.0,512,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,2.0,4.6
+144,DELL,DELL Inspiron ,41890.0,256,8,DDR4,14.96,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.5
+145,MSI,MSI GF65 Thin ,79990.0,512,16,DDR4,15.6,Intel Hexa Core i5 Processor (10th Gen),64 bit Windows 10 ,1.0,3.7
+146,APPLE,APPLE 2021 Macbook Pro ,305990.0,1000,32,Unified,16.2,Apple M1 Max Processor,Mac OS ,1.0,4.7
+147,Lenovo,Lenovo IdeaPad 3 ,39490.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,2.0,4.7
+148,HP,HP ,32990.0,256,8,DDR4,15.6,AMD Ryzen 3 Dual Core Processor,64 bit Windows 11 ,1.0,4.3
+149,acer,acer Aspire 5 ,50990.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.2
+150,HP,HP ,39990.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.6
+151,Lenovo,Lenovo IdeaPad 3 ,33490.0,256,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),Windows 11 ,1.0,4.3
+152,DELL,DELL Vostro ,41390.0,512,8,DDR4,14.0,Intel Core i3 Processor (10th Gen),64 bit Windows 10 ,1.0,4.4
+153,MSI,MSI Modern 14 ,41490.0,512,8,DDR4,14.0,Intel Core i5 Processor (10th Gen),64 bit Windows 10 ,1.0,4.3
+154,ASUS,ASUS Vivobook 15 ,36990.0,512,8,DDR4,15.6,AMD Ryzen 3 Dual Core Processor,64 bit Windows 11 ,1.0,4.3
+155,Lenovo,Lenovo Legion 5 ,133999.0,512,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.4
+156,DELL,DELL Vostro ,39990.0,256,8,DDR4,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 10 ,1.0,3.8
+157,DELL,DELL ,69490.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.2
+158,RedmiBook,RedmiBook 15 ,34999.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),Windows 10 ,1.0,4.5
+159,Lenovo,Lenovo IdeaPad ,45990.0,512,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.2
+160,Avita,Avita SATUS ULTIMUS S111 ,21490.0,128,4,DDR4,14.1,Intel Celeron Dual Core Processor,64 bit Windows 11 ,1.0,4.6
+161,HP,HP Pavilion ,52499.0,512,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.1
+162,DELL,DELL Inspiron ,39690.0,1000,8,DDR4,14.96,AMD Ryzen 3 Dual Core Processor,64 bit Windows 11 ,1.0,4.4
+163,DELL,DELL Inspiron ,62990.0,512,16,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,3.4
+164,MSI,MSI Delta 15 AMD Advantage Edition ,114990.0,1000,16,DDR4,15.6,AMD Ryzen 9 Octa Core Processor,64 bit Windows 11 ,1.0,4.4
+165,APPLE,APPLE 2022 MacBook Pro ,129900.0,256,8,Unified,13.3,Apple M2 Processor,Mac OS ,1.0,4.7
+166,ASUS,ASUS ROG Flow X13 ,113990.0,1000,32,LPDDR4X,13.4,AMD Ryzen 9 Octa Core Processor,64 bit Windows 10 ,1.0,4.8
+167,Lenovo,Lenovo IdeaPad 3 ,36990.0,256,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 10 ,1.0,4.2
+168,ASUS,ASUS ,46500.0,512,8,DDR4,15.6,Intel Core i5 Processor (10th Gen),64 bit Windows 10 ,1.0,4.4
+169,ASUS,ASUS Zenbook 14 ScreenPad Touch Panel ,74990.0,512,8,LPDDR4X,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.7
+170,ASUS,ASUS VivoBook Ultra ,50990.0,512,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.4
+171,Avita,Avita SATUS ULTIMUS S111 ,21490.0,128,4,DDR4,14.1,Intel Celeron Dual Core Processor,64 bit Windows 11 ,2.0,4.3
+172,HP,HP ,56990.0,512,8,DDR4,15.6,Intel Core i5 Processor (12th Gen),64 bit Windows 11 ,1.0,4.3
+173,ASUS,ASUS ROG Strix G15 (2022) ,103990.0,1000,16,DDR5,15.6,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 ,1.0,4.5
+174,HP,HP Pavilion ,73190.0,512,16,DDR4,15.6,Intel Core i5 Processor (12th Gen),64 bit Windows 11 ,1.0,4.1
+175,Lenovo,Lenovo IdeaPad 3 ,39490.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,2.0,4.8
+176,ASUS,ASUS Vivobook 15 ,42990.0,512,16,DDR4,15.6,AMD Ryzen 7 Quad Core Processor,64 bit Windows 11 ,1.0,4.8
+177,DELL,DELL Vostro ,41490.0,512,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 11 ,1.0,4.3
+178,HP,HP HP Envy Intel EVO ,91490.0,1000,16,DDR4,13.3,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.3
+179,Lenovo,Lenovo IdeaPad 3 ,33490.0,256,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),Windows 11 ,1.0,4.2
+180,DELL,DELL Vostro ,41590.0,256,8,DDR4,14.0,AMD Ryzen 5 Quad Core Processor,64 bit Windows 11 ,1.0,4.3
+181,HP,HP 15s ,33990.0,1000,8,DDR4,15.6,AMD Ryzen 3 Dual Core Processor,64 bit Windows 10 ,1.0,4.5
+182,DELL,DELL Inspiron ,61890.0,512,8,DDR4,15.6,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 ,1.0,4.1
+183,Lenovo,Lenovo Legion 5 ,133999.0,512,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.2
+184,ASUS,ASUS Vivobook 15 ,58390.0,512,8,DDR4,15.6,Intel Core i5 Processor (12th Gen),64 bit Windows 11 ,1.0,4.6
+185,HP,HP ,42990.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.1
+186,Lenovo,Lenovo Ideapad Gaming 3 ,72990.0,512,16,DDR4,15.6,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 ,1.0,4.2
+187,Lenovo,Lenovo IdeaPad ,45990.0,512,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.4
+188,Infinix,Infinix INBook X1 ,39990.0,512,8,LPDDR4X,14.0,Intel Core i5 Processor (10th Gen),64 bit Windows 11 ,1.0,4.1
+189,Infinix,Infinix X1 Slim Series ,44990.0,512,16,LPDDR4X,14.0,Intel Core i5 Processor (10th Gen),64 bit Windows 11 ,1.0,4.3
+190,Lenovo,Lenovo IdeaPad Gaming 3i ,88990.0,512,8,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.4
+191,DELL,DELL Inspiron ,62990.0,512,16,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.2
+192,Nokia,Nokia PureBook X14 ,47990.0,512,8,DDR4,14.0,Intel Core i5 Processor (10th Gen),64 bit Windows 10 ,1.0,4.3
+193,ASUS,ASUS Vivobook 15 ,39980.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 10 ,1.0,4.4
+194,acer,acer Extensa 15 ,29790.0,256,4,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,3.9
+195,Avita,Avita SATUS ULTIMUS S111 ,21490.0,128,4,DDR4,14.1,Intel Celeron Dual Core Processor,64 bit Windows 11 ,2.0,4.2
+196,MSI,MSI Modern 14 ,43990.0,512,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.1
+197,ASUS,ASUS ROG Strix G15 ,78990.0,512,8,DDR4,15.6,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 ,1.0,4.5
+198,ASUS,ASUS ,98990.0,512,16,DDR4,16.6,AMD Ryzen 9 Octa Core Processor,Windows 11 ,1.0,4.6
+199,Lenovo,Lenovo IdeaPad 3 ,39490.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,2.0,4.3
+200,HP,HP ,56990.0,512,8,DDR4,14.0,AMD Ryzen 7 Octa Core Processor,64 bit Windows 10 ,1.0,4.3
+201,DELL,DELL Vostro ,56290.0,1000,8,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,3.0,3.8
+202,DELL,DELL Inspiron ,47090.0,512,8,DDR4,15.6,AMD Ryzen 5 Dual Core Processor,64 bit Windows 11 ,1.0,4.1
+203,Lenovo,Lenovo IdeaPad 3 ,33490.0,256,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),Windows 11 ,2.0,4.3
+204,HP,HP Pavilion Aero ,64488.0,512,16,DDR4,13.3,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.3
+205,Lenovo,Lenovo IdeaPad 5 Pro ,64990.0,512,16,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.4
+206,HP,HP ,37990.0,512,8,DDR4,14.0,AMD Ryzen 3 Quad Core Processor,64 bit Windows 11 ,1.0,4.4
+207,Lenovo,Lenovo IdeaPad ,37990.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.5
+208,HP,HP Pavilion ,65990.0,512,16,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,3.4
+209,Lenovo,Lenovo IdeaPad 1 ,19990.0,256,4,DDR4,11.6,Intel Celeron Dual Core Processor,64 bit Windows 11 ,1.0,4.5
+210,Infinix,Infinix INBook X1 Neo Series ,24990.0,256,8,LPDDR4X,14.0,Intel Celeron Quad Core Processor,64 bit Windows 11 ,3.0,4.2
+211,Lenovo,Lenovo Legion 5 ,133999.0,512,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.3
+212,ASUS,ASUS VivoBook Flip 14 Touch Panel ,46990.0,512,4,DDR4,14.0,Intel Core i3 Processor (10th Gen),64 bit Windows 10 ,1.0,4.2
+213,ASUS,ASUS ,32585.0,256,4,DDR4,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,2.0,4.7
+214,Lenovo,Lenovo Yoga 6 ,77990.0,512,16,DDR4,13.3,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 ,1.0,4.6
+215,Lenovo,Lenovo IdeaPad ,45990.0,512,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.2
+216,HP,HP 14s ,28990.0,256,8,DDR4,14.0,Intel Celeron Dual Core Processor,64 bit Windows 10 ,1.0,3.4
+217,MSI,MSI Katana GF66 ,87990.0,1000,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.2
+218,ASUS,ASUS (2022) ,29990.0,128,4,DDR4,11.6,Intel Celeron Dual Core Processor,64 bit Windows 11 ,1.0,4.3
+219,Avita,Avita SATUS ULTIMUS S111 ,21490.0,128,4,DDR4,14.1,Intel Celeron Dual Core Processor,64 bit Windows 11 ,2.0,4.4
+220,DELL,DELL Inspiron ,39290.0,1000,8,DDR4,14.96,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.3
+221,ASUS,ASUS VivoBook Flip 14 ,46990.0,256,8,LPDDR4X,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.1
+222,Lenovo,Lenovo Legion 5 ,60990.0,1000,8,DDR4,15.6,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,3.6
+223,Lenovo,Lenovo IdeaPad 3 ,39490.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,2.0,4.7
+224,DELL,DELL ,74490.0,512,16,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.6
+225,Lenovo,Lenovo ,54990.0,512,8,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.3
+226,ASUS,ASUS Vivobook Ultra K15 ,45490.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,3.8
+227,Lenovo,Lenovo IdeaPad 3 ,33490.0,256,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),Windows 11 ,2.0,4.4
+228,ASUS,ASUS ROG Strix G15 Advantage Edition ,154990.0,1000,16,DDR4,15.6,AMD Ryzen 9 Octa Core Processor,Windows 11 ,1.0,4.3
+229,ASUS,ASUS TUF Gaming A17 ,79990.0,512,16,DDR4,17.3,AMD Ryzen 7 Octa Core Processor,Windows 10 ,1.0,4.4
+230,HP,HP Pavilion ,68990.0,512,16,DDR4,14.0,Intel Core i5 Processor (12th Gen),64 bit Windows 11 ,1.0,4.2
+231,Lenovo,Lenovo IdeaPad ,37990.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.5
+232,DELL,DELL ,78990.0,512,8,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.2
+233,Infinix,Infinix INBook X1 Pro ,50990.0,512,16,LPDDR4X,14.0,Intel Core i7 Processor (10th Gen),64 bit Windows 11 ,1.0,4.5
+234,ASUS,ASUS VivoBook 14 ,53690.0,512,8,DDR4,14.0,Intel Core i5 Processor (8th Gen),64 bit Windows 10 ,1.0,4.7
+235,Lenovo,Lenovo Legion 5 ,133999.0,512,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.6
+236,HP,HP Pavilion x360 ,47890.0,256,8,DDR4,14.0,Intel Core i3 Processor (10th Gen),64 bit Windows 10 ,3.0,4.5
+237,HP,HP Pavilion x360 Convertible ,54490.0,512,8,DDR4,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.2
+238,Lenovo,Lenovo ,67990.0,1000,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),Windows 10 ,1.0,4.3
+239,Lenovo,Lenovo IdeaPad ,45990.0,512,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.4
+240,Lenovo,Lenovo Yoga Slim 7 ,72990.0,512,16,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.6
+241,HP,HP 15s ,46990.0,512,8,DDR4,15.6,AMD Ryzen 5 Quad Core Processor,64 bit Windows 10 ,1.0,4.1
+242,SAMSUNG,SAMSUNG Galaxy Book Go ,32990.0,512,4,LPDDR4X,14.0,Snapdragon 7c Gen 2 Processor,Windows 11 ,1.0,4.1
+243,HP,HP Spectre x360 14 Series Intel EVO ,99990.0,1000,16,LPDDR4X,13.5,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.1
+244,acer,acer Aspire 5 ,47090.0,1000,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.5
+245,ASUS,ASUS Vivobook 14 ,39790.0,256,8,DDR4,14.1,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.1
+246,acer,acer Aspire 3 ,36990.0,512,8,DDR4,14.0,Intel Pentium Silver Processor,64 bit Windows 11 ,1.0,4.5
+247,ASUS,ASUS Chromebook ,22990.0,512,4,LPDDR4,14.0,Intel Celeron Dual Core Processor,Chrome ,1.0,3.8
+248,Lenovo,Lenovo Ideapad Slim 5i ,58990.0,512,8,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.1
+249,ASUS,ASUS VivoBook K15 OLED ,57990.0,512,16,DDR4,15.6,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 ,1.0,4.7
+250,DELL,DELL Inspiron ,71890.0,1000,8,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.4
+251,DELL,DELL ,101990.0,1000,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 11 ,1.0,4.7
+252,ASUS,ASUS ,45990.0,1000,8,DDR4,15.6,Intel Core i5 Processor (10th Gen),64 bit Windows 10 ,1.0,4.7
+253,ASUS,ASUS ZenBook Duo 14 (2021) Touch Panel Intel EVO ,119990.0,256,16,LPDDR4X,14.0,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.3
+254,DELL,DELL Inspiron ,40090.0,512,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 10 ,1.0,4.7
+255,acer,acer Aspire 3 ,38990.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,3.9
+256,ASUS,ASUS VivoBook Pro 14 OLED ,78990.0,512,16,DDR4,14.0,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 ,1.0,4.3
+257,ASUS,ASUS ROG Strix G15 ,73490.0,512,8,DDR4,15.6,AMD Ryzen 7 Octa Core Processor,64 bit Windows 10 ,1.0,4.4
+258,HP,HP Pavilion ,69999.0,512,16,DDR4,14.0,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 ,1.0,4.1
+259,APPLE,APPLE MacBook Air ,129990.0,512,16,DDR4,13.3,Apple M1 Processor,Mac OS ,1.0,4.3
+260,MSI,MSI ,54990.0,256,8,DDR4,14.0,Intel Core i7 Processor (10th Gen),64 bit Windows 10 ,1.0,4.6
+261,Lenovo,Lenovo ThinkPad E15 ,67990.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.5
+262,DELL,DELL Inspiron ,43190.0,256,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 10 ,1.0,3.9
+263,HP,HP 14s ,42390.0,512,8,DDR4,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.3
+264,DELL,DELL Inspiron ,43190.0,512,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 10 ,1.0,4.1
+265,HP,HP 14s ,42390.0,128,8,DDR4,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.7
+266,ASUS,ASUS Zenbook 13 Intel EVO ,71990.0,512,16,LPDDR4,13.3,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.7
+267,Avita,Avita SATUS ULTIMUS S111 ,21490.0,512,4,DDR4,14.1,Intel Celeron Dual Core Processor,64 bit Windows 11 ,1.0,4.3
+268,APPLE,APPLE MacBook Air ,129990.0,512,16,DDR4,13.3,Apple M1 Processor,Mac OS ,1.0,4.6
+269,HP,HP Pavilion ,69999.0,512,16,DDR4,14.0,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 ,1.0,4.7
+270,MSI,MSI ,54990.0,1000,8,DDR4,14.0,Intel Core i7 Processor (10th Gen),64 bit Windows 10 ,1.0,4.3
+271,acer,acer Aspire Vero(Green PC ) ,58390.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.2
+272,ASUS,ASUS ROG Strix G15 Advantage Edition ,144990.0,1000,16,DDR4,15.6,AMD Ryzen 9 Octa Core Processor,Windows 10 ,1.0,4.3
+273,ASUS,ASUS Vivobook Pro 14 OLED (2021) ,88990.0,512,16,DDR4,14.0,AMD Ryzen 7 Octa Core Processor,64 bit Windows 10 ,1.0,4.5
+274,ASUS,ASUS VivoBook 15 (2022) ,47990.0,256,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),Windows 10 ,1.0,4.3
+275,Lenovo,Lenovo IdeaPad Gaming ,53990.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,2.0,3.7
+276,Lenovo,Lenovo ThinkPad E15 ,44990.0,512,4,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 10 ,1.0,4.5
+277,Lenovo,Lenovo IdeaPad Gaming 3 ,78990.0,256,16,DDR4,15.6,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 ,1.0,4.7
+278,ASUS,ASUS VivoBook 14 (2022) ,47990.0,1000,8,DDR4,14.0,Intel Core i3 Processor (12th Gen),Windows 11 ,1.0,4.3
+279,Lenovo,Lenovo IdeaPad 3 ,33490.0,256,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),Windows 11 ,2.0,3.8
+280,ASUS,ASUS VivoBook 15 ,29990.0,512,4,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 10 ,1.0,4.4
+281,HP,HP Pavilion x360 ,47890.0,512,8,DDR4,14.0,Intel Core i3 Processor (10th Gen),64 bit Windows 10 ,1.0,4.2
+282,ASUS,ASUS VivoBook Flip 14 ,63990.0,1000,8,LPDDR4X,14.0,Intel Core i5 Processor (11th Gen),Windows 11 ,3.0,4.5
+283,Lenovo,Lenovo ,34490.0,1000,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 11 ,1.0,4.2
+284,ASUS,ASUS ,96990.0,1000,16,DDR4,14.0,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 ,1.0,3.7
+285,ASUS,ASUS ,22990.0,512,4,DDR4,15.6,Intel Celeron Dual Core Processor,64 bit Windows 10 ,2.0,4.2
+286,Lenovo,Lenovo Yoga Slim 7 Intel EVO ,102990.0,512,16,DDR4,14.0,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.3
+287,Lenovo,Lenovo Legion 5 ,133999.0,1000,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.3
+288,acer,acer Extensa ,33990.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.1
+289,MSI,MSI GP66 Leopard ,139990.0,128,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.5
+290,acer,acer Aspire 7 ,56990.0,512,8,DDR4,15.6,Intel Core i5 Processor (12th Gen),64 bit Windows 11 ,1.0,4.3
+291,Avita,Avita SATUS ULTIMUS S111 ,21490.0,512,4,DDR4,14.1,Intel Celeron Dual Core Processor,64 bit Windows 11 ,1.0,3.8
+292,Lenovo,Lenovo IdeaPad Flex 5 ,58990.0,512,8,DDR4,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 10 ,1.0,4.3
+293,HP,HP Pavilion ,63990.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.2
+294,ASUS,ASUS Vivobook 15 Touch ,54490.0,1000,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),Windows 11 ,1.0,3.6
+295,acer,acer Aspire Vero(Green PC ) ,58390.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,2.7
+296,ASUS,ASUS VivoBook ,55990.0,1000,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.3
+297,acer,acer Aspire 5 ,53390.0,512,8,DDR4,15.6,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,3.4
+298,ASUS,ASUS ROG Strix G15 (2022) ,137990.0,1000,16,DDR5,15.6,AMD Ryzen 7 Octa Core Processor,Windows 11 ,1.0,4.4
+299,Lenovo,Lenovo IdeaPad Gaming ,53990.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,2.0,4.3
+301,ASUS,ASUS VivoBook 17 ,52990.0,256,16,DDR4,17.3,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.1
+302,acer,acer Intel EVO Swift 5 ,74990.0,256,8,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.2
+303,Lenovo,Lenovo IdeaPad 3 ,33490.0,1000,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),Windows 11 ,2.0,4.2
+304,HP,HP Athlon ,30990.0,256,8,DDR4,14.0,AMD Athlon Dual Core Processor,64 bit Windows 11 ,1.0,4.4
+305,acer,acer Extensa 15 ,27990.0,512,4,DDR4,15.6,Intel Pentium Quad Core Processor,64 bit Windows 11 ,1.0,4.2
+306,DELL,DELL Inspiron ,39490.0,512,4,DDR4,15.0,Intel Core i3 Processor (10th Gen),64 bit Windows 10 ,1.0,4.2
+307,Lenovo,Lenovo ,34490.0,1000,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 11 ,1.0,4.3
+308,Infinix,Infinix INBook X1 Pro ,50990.0,512,16,LPDDR4X,14.0,Intel Core i7 Processor (10th Gen),64 bit Windows 11 ,1.0,4.5
+309,HP,HP 15s ,40500.0,512,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 10 ,1.0,4.1
+310,ASUS,ASUS ROG Strix G15 (2022) ,99990.0,1000,16,DDR5,15.6,AMD Ryzen 7 Octa Core Processor,Windows 11 ,1.0,4.4
+311,Lenovo,Lenovo Legion 5 ,133999.0,512,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,3.6
+312,DELL,DELL Inspiron ,58990.0,1000,4,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.3
+313,MSI,MSI Modern 14 ,56490.0,128,8,DDR4,14.0,Intel Core i5 Processor (10th Gen),64 bit Windows 10 ,1.0,4.5
+314,acer,acer Predator Helios 300 ,139990.0,512,16,DDR4,15.6,Intel Core i9 Processor (11th Gen),64 bit Windows 11 ,1.0,4.2
+315,Avita,Avita SATUS ULTIMUS S111 ,21490.0,512,4,DDR4,14.1,Intel Celeron Dual Core Processor,64 bit Windows 11 ,2.0,4.4
+316,HP,HP Pavilion ,71990.0,256,16,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.6
+317,ASUS,ASUS Vivobook 15 ,34990.0,1000,8,DDR4,15.6,AMD Ryzen 3 Dual Core Processor,64 bit Windows 11 ,1.0,4.2
+318,ASUS,ASUS Chromebook ,18990.0,1000,4,LPDDR4,11.6,Intel Celeron Dual Core Processor,64 bit Chrome ,2.0,4.3
+319,Lenovo,Lenovo IdeaPad 3 ,33490.0,512,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),Windows 11 ,1.0,4.3
+320,ASUS,ASUS TUF Gaming F15 ,144990.0,512,16,DDR4,15.6,Intel Core i9 Processor (11th Gen),64 bit Windows 10 ,1.0,4.4
+321,acer,acer Predator Helios 300 ,119990.0,256,16,DDR4,15.6,Intel Core i9 Processor (11th Gen),64 bit Windows 11 ,1.0,4.1
+322,MSI,MSI Sword 15 ,85990.0,1000,16,DDR4,15.6,Intel Core i5 Processor (12th Gen),64 bit Windows 11 ,1.0,4.2
+323,Lenovo,Lenovo Legion 5 ,133999.0,512,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.5
+324,Lenovo,Lenovo Ideapad S145 ,36490.0,512,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 10 ,1.0,4.3
+325,ASUS,ASUS TUF Gaming A17 (2022) ,119000.0,512,16,DDR5,17.3,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 ,1.0,4.4
+326,Lenovo,Lenovo Ideapad Slim 5 ,63990.0,1000,8,DDR4,14.0,AMD Ryzen 7 Octa Core Processor,64 bit Windows 10 ,1.0,4.2
+327,Lenovo,Lenovo IdeaPad ,45990.0,512,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.4
+328,ASUS,ASUS Vivobook S14 OLED (2022) Intel EVO ,94990.0,512,16,DDR4,14.0,Intel Core i7 Processor (12th Gen),Windows 11 ,1.0,4.6
+329,Lenovo,Lenovo Legion ,60990.0,512,8,DDR4,15.6,Intel Core i5 Processor (9th Gen),64 bit Windows 10 ,1.0,4.4
+330,DELL,DELL Inspiron ,71890.0,512,8,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.1
+331,DELL,DELL Inspiron ,62990.0,1000,16,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.2
+332,HP,HP ,61990.0,256,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.4
+333,ASUS,ASUS VivoBook 15 (2022) ,57185.0,512,16,DDR4,15.6,Intel Core i7 Processor (10th Gen),64 bit Windows 11 ,1.0,4.5
+334,ASUS,ASUS ROG Flow Z13 (2022) ,181990.0,512,16,LPDDR5,13.4,Intel Core i9 Processor (12th Gen),64 bit Windows 11 ,1.0,4.7
+335,Lenovo,Lenovo IdeaPad 3 ,36990.0,1000,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 10 ,3.0,3.9
+336,DELL,DELL G15 ,103990.0,128,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 11 ,1.0,4.2
+337,APPLE,APPLE 2020 Macbook Pro ,130990.0,512,8,DDR4,13.3,Apple M1 Processor,Mac OS ,1.0,4.4
+338,acer,acer Aspire 5 ,49990.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.1
+339,Avita,Avita SATUS ULTIMUS S111 ,21490.0,512,4,DDR4,14.1,Intel Celeron Dual Core Processor,64 bit Windows 11 ,1.0,4.3
+340,Lenovo,Lenovo IdeaPad 5 Pro ,69990.0,512,16,DDR4,14.0,Intel Core i5 Processor (11th Gen),Windows 10 ,1.0,4.7
+341,HP,HP ,47990.0,512,8,DDR4,15.6,AMD Ryzen 5 Hexa Core Processor,Windows 11 ,1.0,4.6
+342,ASUS,ASUS VivoBook Pro 14 OLED (2022) ,62990.0,1000,16,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.2
+343,acer,acer Aspire Vero(Green PC ) ,58390.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.3
+344,APPLE,APPLE MacBook Air ,122990.0,512,16,DDR4,13.3,Apple M1 Processor,Mac OS ,1.0,4.4
+346,ASUS,ASUS Zenbook 13 Intel EVO ,69990.0,512,16,LPDDR4X,13.3,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.2
+347,Lenovo,Lenovo IdeaPad Gaming ,53990.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.6
+348,ASUS,ASUS VivoBook Ultra K14 (2021) ,50990.0,256,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,2.0,4.2
+349,Infinix,Infinix INBook X1 ,39990.0,256,8,LPDDR4X,14.0,Intel Core i5 Processor (10th Gen),64 bit Windows 11 ,1.0,4.5
+350,DELL,DELL G15 ,127990.0,1000,16,DDR5,15.6,Intel Core i7 Processor (12th Gen),64 bit Windows 11 ,2.0,4.4
+351,Lenovo,Lenovo IdeaPad 3 ,33490.0,512,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),Windows 11 ,1.0,4.3
+352,APPLE,APPLE 2020 Macbook Air ,96990.0,512,8,DDR4,13.3,Apple M1 Processor,Mac OS ,1.0,3.3
+353,HP,HP 250 G8 53L46PA ,37990.0,512,4,DDR4,15.748,Intel Core i3 Processor (10th Gen),Windows 10 ,1.0,4.4
+354,realme,realme Book Prime ,62999.0,256,16,LPDDR4X,14.0,Intel Core i5 Processor (11th Gen),Windows 11 ,1.0,4.1
+355,Lenovo,Lenovo ,34490.0,1000,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 11 ,1.0,3.8
+356,HP,HP ,58990.0,512,8,DDR4,15.6,Intel Core i5 Processor (12th Gen),64 bit Windows 11 ,1.0,4.3
+357,Lenovo,Lenovo IdeaPad 3 ,35990.0,512,4,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 10 ,1.8,4.3
+358,HP,HP Pavilion ,85490.0,1000,16,DDR4,15.6,Intel Core i7 Processor (12th Gen),64 bit Windows 11 ,1.0,4.6
+359,Lenovo,Lenovo Legion 5 ,133999.0,512,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.1
+360,Lenovo,Lenovo IdeaPad ,57990.0,128,8,DDR4,15.6,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,2.0,4.2
+361,ASUS,ASUS ROG Strix SCAR 15 (2022) ,299990.0,1000,32,DDR5,15.6,Intel Core i9 Processor (12th Gen),64 bit Windows 11 ,1.0,4.4
+362,HP,HP HP Envy Intel EVO ,74499.0,512,16,DDR4,13.3,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,3.5
+363,Avita,Avita SATUS ULTIMUS S111 ,21490.0,1000,4,DDR4,14.1,Intel Celeron Dual Core Processor,64 bit Windows 11 ,1.0,3.6
+364,Avita,Avita Liber ,49990.0,512,16,DDR4,14.0,Intel Core i7 Processor (10th Gen),64 bit Windows 10 ,2.0,4.6
+365,APPLE,APPLE 2022 MacBook Pro ,149900.0,1000,8,Unified,13.3,Apple M2 Processor,Mac OS ,1.0,4.2
+366,ASUS,ASUS TUF Gaming F15 (2022) ,141980.0,1000,16,DDR5,15.6,Intel Core i7 Processor (12th Gen),64 bit Windows 11 ,1.0,4.4
+367,Lenovo,Lenovo IdeaPad 3 ,39490.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.4
+368,ASUS,ASUS VivoBook 15 ,38990.0,256,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 10 ,1.0,4.4
+369,acer,acer Predator Helios 300 ,189990.0,512,16,DDR5,15.6,Intel Core i7 Processor (12th Gen),64 bit Windows 11 ,1.0,4.2
+370,MSI,MSI Prestige 14 Intel EVO ,69990.0,1000,16,LPDDR4X,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,3.5
+371,Lenovo,Lenovo IdeaPad 3 ,33490.0,512,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),Windows 11 ,1.0,4.3
+372,DELL,DELL XPS ,135290.0,512,8,LPDDR4X,13.3,Intel Core i5 Processor (10th Gen),64 bit Windows 10 ,1.0,4.2
+373,ASUS,ASUS ROG Strix G15 ,117990.0,512,16,DDR4,15.6,AMD Ryzen 9 Octa Core Processor,64 bit Windows 10 ,3.0,4.1
+374,DELL,DELL Inspiron ,43790.0,1000,8,DDR4,15.6,AMD Ryzen 3 Dual Core Processor,64 bit Windows 11 ,1.0,4.3
+375,Lenovo,Lenovo Legion 5 ,133999.0,1000,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,3.0,4.3
+376,HP,HP Pavilion ,69990.0,512,8,DDR4,15.6,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 ,1.0,4.1
+377,Lenovo,Lenovo ,33990.0,512,4,DDR4,15.0,Intel Core i3 Processor (11th Gen),64 bit DOS ,1.0,4.5
+378,HP,HP 15s ,54000.0,1000,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.2
+379,Lenovo,Lenovo IdeaPad ,45990.0,512,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.4
+380,Lenovo,Lenovo Yoga 7 ,97490.0,512,16,DDR4,14.0,Intel Core i7 Processor (11th Gen),64 bit Windows 11 ,1.0,4.6
+381,HP,HP Spectre x360 14 Intel EVO ,133490.0,512,16,LPDDR4X,13.5,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,3.3
+382,Lenovo,Lenovo Thinkbook Convertible ,84990.0,512,16,DDR4,14.0,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.4
+383,DELL,DELL Inspiron ,62990.0,1000,16,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.7
+384,Infinix,Infinix X1 Slim Series ,44990.0,128,16,LPDDR4X,14.0,Intel Core i5 Processor (10th Gen),64 bit Windows 11 ,2.0,3.8
+385,APPLE,APPLE 2022 MacBook AIR ,149900.0,1000,8,Unified,13.6,Apple M2 Processor,Mac OS ,1.0,3.9
+386,HP,HP OMEN ,121990.0,512,16,DDR4,16.1,AMD Ryzen 9 Octa Core Processor,64 bit Windows 10 ,1.0,4.2
+387,Avita,Avita SATUS ULTIMUS S111 ,21490.0,512,4,DDR4,14.1,Intel Celeron Dual Core Processor,64 bit Windows 11 ,1.0,4.4
+388,DELL,DELL ,56990.0,256,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),Windows 11 ,1.0,4.2
+389,ASUS,ASUS Zenbook Flip 13 OLED Touch Panel Intel EVO ,79990.0,512,8,LPDDR4X,13.3,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.3
+390,MSI,MSI Modern 14 ,48790.0,512,8,DDR4,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 10 ,1.0,3.3
+391,Lenovo,Lenovo IdeaPad 3 ,33490.0,1000,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),Windows 11 ,3.0,4.4
+392,MSI,MSI ,76990.0,512,8,DDR4,14.0,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.4
+393,DELL,DELL Inspiron ,48890.0,512,8,DDR4,15.6,AMD Ryzen 5 Quad Core Processor,64 bit Windows 11 ,1.0,4.1
+394,HP,HP Pavilion Gaming ,68990.0,512,8,DDR4,15.6,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.5
+395,Lenovo,Lenovo Legion 5 ,133999.0,512,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.3
+396,acer,acer Aspire 3 ,31990.0,512,4,DDR4,15.6,AMD Ryzen 3 Dual Core Processor,64 bit Windows 11 ,1.0,4.4
+397,acer,acer ,62990.0,512,8,DDR4,15.6,Intel Core i5 Processor (12th Gen),64 bit Windows 11 ,1.0,4.1
+398,Lenovo,Lenovo Yoga Slim 7 ,69990.0,512,8,LPDDR4X,14.0,Intel Core i5 Processor (10th Gen),64 bit Windows 10 ,1.0,4.3
+399,Lenovo,Lenovo IdeaPad ,45990.0,1000,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,3.5
+400,DELL,DELL ,56290.0,512,8,DDR4,15.6,Intel Core i5 Processor (11th Gen),Windows 11 ,1.0,4.3
+401,Lenovo,Lenovo Ideapad Slim 3 ,35290.0,1000,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 10 ,1.0,3.9
+402,ASUS,ASUS ROG Flow Z13 (2022) ,191990.0,1000,16,LPDDR5,13.4,Intel Core i9 Processor (12th Gen),64 bit Windows 11 ,1.0,4.4
+403,DELL,DELL Inspiron ,62990.0,256,16,DDR4,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 10 ,1.0,4.3
+404,APPLE,APPLE MacBook Pro with Touch Bar ,180990.0,256,16,LPDDR4X,13.0,Intel Core i5 Processor (10th Gen),Mac OS ,1.0,4.2
+405,HP,HP HP Envy ,89999.0,512,16,DDR4,13.3,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 ,1.0,4.6
+406,DELL,DELL ,39590.0,1000,8,DDR4,15.6,AMD Ryzen 3 Dual Core Processor,64 bit Windows 10 ,1.0,4.6
+407,Lenovo,Lenovo IdeaPad 3 ,36990.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 10 ,1.0,4.4
+408,ASUS,ASUS VivoBook Ultra 14 ,57990.0,128,8,DDR4,14.0,Intel Core i5 Processor (10th Gen),64 bit Windows 10 ,2.0,4.2
+409,ASUS,ASUS ,54990.0,1000,8,DDR4,15.6,Intel Core i5 Processor (10th Gen),Windows 10 ,1.0,4.6
+410,DELL,DELL Vostro ,59890.0,1000,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.3
+411,Avita,Avita SATUS ULTIMUS S111 ,21490.0,512,4,DDR4,14.1,Intel Celeron Dual Core Processor,64 bit Windows 11 ,2.0,4.3
+412,acer,acer Predator Helios 300 ,154990.0,512,16,DDR5,15.6,Intel Core i7 Processor (12th Gen),64 bit Windows 11 ,2.0,4.3
+413,DELL,DELL Vostro ,44690.0,512,8,DDR4,14.0,Intel Core i3 Processor (10th Gen),64 bit Windows 10 ,1.0,4.3
+414,DELL,DELL G15 ,87990.0,1000,16,DDR5,15.6,Intel Core i5 Processor (12th Gen),64 bit Windows 11 ,1.0,4.3
+415,Lenovo,Lenovo IdeaPad 3 ,39490.0,1000,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.3
+416,Lenovo,Lenovo Legion 5 ,70999.0,256,8,DDR4,15.6,Intel Core i5 Processor (10th Gen),64 bit Windows 10 ,2.0,4.3
+417,ASUS,ASUS Vivobook Pro 15 OLED ,89990.0,512,16,DDR4,15.6,AMD Ryzen 7 Octa Core Processor,64 bit Windows 10 ,1.0,4.3
+418,MSI,MSI ,124990.0,512,16,DDR4,15.6,Intel Core i7 Processor (12th Gen),64 bit Windows 11 ,1.0,4.3
+419,Lenovo,Lenovo IdeaPad 3 ,33490.0,1000,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),Windows 11 ,2.0,4.3
+420,MSI,MSI Modern 14 ,80590.0,512,8,DDR4,14.0,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.3
+421,MSI,MSI Prestige 15 ,113490.0,512,16,DDR4,15.6,Intel Core i7 Processor (10th Gen),64 bit Windows 10 ,1.0,4.3
+422,DELL,DELL Vostro ,41990.0,1000,8,DDR4,14.0,Intel Core i3 Processor (11th Gen),64 bit Windows 10 ,1.0,4.3
+423,Lenovo,Lenovo IdeaPad ,37990.0,512,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),64 bit Windows 11 ,1.0,4.3
+424,HP,HP Pavilion x360 ,49347.0,512,8,DDR4,14.0,Intel Core i3 Processor (10th Gen),64 bit Windows 10 ,1.0,4.3
+425,ASUS,ASUS ROG Zephyrus G15 ,157990.0,512,16,DDR5,15.6,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 ,1.0,4.3
+426,Lenovo,Lenovo Ideapad Slim 3i (2021) ,36988.0,1000,8,DDR4,15.6,Intel Core i3 Processor (10th Gen),64 bit Windows 11 ,1.0,4.3
+427,Lenovo,Lenovo Legion 5 ,133999.0,512,16,DDR4,15.6,Intel Core i7 Processor (11th Gen),64 bit Windows 10 ,1.0,4.3
+428,ASUS,ASUS ZenBook Duo 14 (2021) Touch Panel ,99990.0,512,8,LPDDR4X,14.0,Intel Core i5 Processor (11th Gen),64 bit Windows 11 ,1.0,4.3
+429,ASUS,ASUS ROG Zephyrus ,154990.0,256,16,DDR4,16.0,Intel Core i7 Processor (11th Gen),Windows 10 ,1.0,4.3
+430,Lenovo,Lenovo ,39990.0,256,8,DDR4,15.6,Intel Core i3 Processor (11th Gen),Windows 11 ,1.0,4.3
+431,Lenovo,Lenovo IdeaPad ,45990.0,256,8,DDR4,14.0,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 ,1.0,4.3
